@@ -60,7 +60,7 @@ DELAY = 1.0
 # Radni Szczecina IX kadencja (2024-2029)
 # Struktura: {imię + nazwisko: klub}
 # Źródło: BIP Szczecin (bip.um.szczecin.pl/chapter_50591.asp)
-# 31 radnych: 19x KO, 7x PiS, 5x OK
+# 33 radnych: 21x KO, 7x PiS, 5x OK
 COUNCILORS = {
     # KO - Koalicja Obywatelska (19 radnych)
     "Abramowicz Elżbieta": "KO",
@@ -69,7 +69,7 @@ COUNCILORS = {
     "Bohuń Maria": "KO",
     "Dorżynkiewicz Wojciech": "KO",
     "Gieryga Mateusz": "KO",
-    "Gródecka-Szwajkiewicz Dorota": "KO",
+    "Gródecka Szwajkiewicz Dorota": "KO",
     "Herczyński Roman": "KO",
     "Jasińska Ewa": "KO",
     "Jeleniewska Zuzanna": "KO",
@@ -444,7 +444,11 @@ def scrape_single_vote(url: str, session: dict, vote_idx: int, topic: str) -> di
 # ---------------------------------------------------------------------------
 
 def load_profiles(profiles_path: str) -> dict:
-    """Load profiles.json with councilor → club mapping."""
+    """Load profiles.json with councilor → club mapping.
+
+    Club assignments from the COUNCILORS dict take priority over
+    whatever is stored in profiles.json (to fix stale '?' values).
+    """
     path = Path(profiles_path)
     if not path.exists():
         print(f"  UWAGA: Brak {profiles_path} — kluby będą oznaczone jako '?'")
@@ -458,9 +462,10 @@ def load_profiles(profiles_path: str) -> dict:
         kadencje = p.get("kadencje", {})
         if kadencje:
             latest = list(kadencje.values())[-1]
+            club = COUNCILORS.get(name, latest.get("club", "?"))
             result[name] = {
                 "name": name,
-                "club": latest.get("club", "?"),
+                "club": club,
                 "district": latest.get("okręg"),
             }
     return result
