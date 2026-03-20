@@ -1,0 +1,862 @@
+{
+  "profiles": [
+    {
+      "name": "Abramowicz Elżbieta",
+      "slug": "abramowicz-elzbieta",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.6,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 443,
+          "votes_przeciw": 29,
+          "votes_wstrzymal": 0,
+          "votes_brak": 5,
+          "votes_nieobecny": 2,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Balicka Jolanta",
+      "slug": "balicka-jolanta",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 73.3,
+          "aktywnosc": 67.8,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 298,
+          "votes_przeciw": 20,
+          "votes_wstrzymal": 2,
+          "votes_brak": 5,
+          "votes_nieobecny": 154,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Bartnik Paweł",
+      "slug": "bartnik-pawel",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 100.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 444,
+          "votes_przeciw": 27,
+          "votes_wstrzymal": 2,
+          "votes_brak": 6,
+          "votes_nieobecny": 0,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Biskupski Marcin",
+      "slug": "biskupski-marcin",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 13.3,
+          "aktywnosc": 7.5,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 30,
+          "votes_przeciw": 2,
+          "votes_wstrzymal": 0,
+          "votes_brak": 4,
+          "votes_nieobecny": 0,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Bohuń Maria",
+      "slug": "bohun-maria",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 86.7,
+          "aktywnosc": 91.9,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 408,
+          "votes_przeciw": 27,
+          "votes_wstrzymal": 4,
+          "votes_brak": 1,
+          "votes_nieobecny": 3,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Chabior Marek",
+      "slug": "chabior-marek",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 84.6,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 317,
+          "votes_przeciw": 46,
+          "votes_wstrzymal": 15,
+          "votes_brak": 27,
+          "votes_nieobecny": 74,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Dorżynkiewicz Wojciech",
+      "slug": "dorzynkiewicz-wojciech",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 80.0,
+          "aktywnosc": 78.3,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 316,
+          "votes_przeciw": 25,
+          "votes_wstrzymal": 0,
+          "votes_brak": 34,
+          "votes_nieobecny": 104,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Duklanowski Marek",
+      "slug": "duklanowski-marek",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.4,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 297,
+          "votes_przeciw": 62,
+          "votes_wstrzymal": 44,
+          "votes_brak": 73,
+          "votes_nieobecny": 3,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Gieryga Mateusz",
+      "slug": "gieryga-mateusz",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 86.7,
+          "aktywnosc": 92.1,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 401,
+          "votes_przeciw": 23,
+          "votes_wstrzymal": 2,
+          "votes_brak": 15,
+          "votes_nieobecny": 38,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Gródecka Szwajkiewicz Dorota",
+      "slug": "grodecka-szwajkiewicz-dorota",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 100.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 441,
+          "votes_przeciw": 27,
+          "votes_wstrzymal": 2,
+          "votes_brak": 9,
+          "votes_nieobecny": 0,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Herczyński Roman",
+      "slug": "herczynski-roman",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 20.0,
+          "aktywnosc": 20.5,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 86,
+          "votes_przeciw": 10,
+          "votes_wstrzymal": 2,
+          "votes_brak": 0,
+          "votes_nieobecny": 0,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Jasińska Ewa",
+      "slug": "jasinska-ewa",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 86.7,
+          "aktywnosc": 90.4,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 404,
+          "votes_przeciw": 24,
+          "votes_wstrzymal": 1,
+          "votes_brak": 4,
+          "votes_nieobecny": 46,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Jeleniewska Zuzanna",
+      "slug": "jeleniewska-zuzanna",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 86.7,
+          "aktywnosc": 90.4,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 402,
+          "votes_przeciw": 25,
+          "votes_wstrzymal": 1,
+          "votes_brak": 5,
+          "votes_nieobecny": 46,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Jerzyk Henryk",
+      "slug": "jerzyk-henryk",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 88.9,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 401,
+          "votes_przeciw": 20,
+          "votes_wstrzymal": 1,
+          "votes_brak": 4,
+          "votes_nieobecny": 53,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Kaup Stanisław",
+      "slug": "kaup-stanislaw",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 96.5,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 420,
+          "votes_przeciw": 28,
+          "votes_wstrzymal": 0,
+          "votes_brak": 14,
+          "votes_nieobecny": 17,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Kolbowicz Marek",
+      "slug": "kolbowicz-marek",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 93.7,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 419,
+          "votes_przeciw": 25,
+          "votes_wstrzymal": 2,
+          "votes_brak": 3,
+          "votes_nieobecny": 30,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Kopeć Maciej",
+      "slug": "kopec-maciej",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 97.9,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 348,
+          "votes_przeciw": 52,
+          "votes_wstrzymal": 32,
+          "votes_brak": 37,
+          "votes_nieobecny": 10,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Kępka Wojciech",
+      "slug": "kepka-wojciech",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 100.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 432,
+          "votes_przeciw": 27,
+          "votes_wstrzymal": 0,
+          "votes_brak": 20,
+          "votes_nieobecny": 0,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Kęsik Piotr",
+      "slug": "kesik-piotr",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 71.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 265,
+          "votes_przeciw": 22,
+          "votes_wstrzymal": 1,
+          "votes_brak": 52,
+          "votes_nieobecny": 139,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Milewska Ilona",
+      "slug": "milewska-ilona",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 100.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 434,
+          "votes_przeciw": 25,
+          "votes_wstrzymal": 5,
+          "votes_brak": 15,
+          "votes_nieobecny": 0,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Pawlicki Marcin",
+      "slug": "pawlicki-marcin",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.2,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 371,
+          "votes_przeciw": 55,
+          "votes_wstrzymal": 32,
+          "votes_brak": 17,
+          "votes_nieobecny": 4,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Pańka Urszula",
+      "slug": "panka-urszula",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 89.8,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 378,
+          "votes_przeciw": 23,
+          "votes_wstrzymal": 6,
+          "votes_brak": 23,
+          "votes_nieobecny": 49,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Posłuszny Jan",
+      "slug": "posluszny-jan",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 89.6,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 394,
+          "votes_przeciw": 25,
+          "votes_wstrzymal": 4,
+          "votes_brak": 6,
+          "votes_nieobecny": 50,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Radziwinowicz Andrzej",
+      "slug": "radziwinowicz-andrzej",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 96.7,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 422,
+          "votes_przeciw": 29,
+          "votes_wstrzymal": 3,
+          "votes_brak": 9,
+          "votes_nieobecny": 16,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Rogaczewska Wiktoria",
+      "slug": "rogaczewska-wiktoria",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 94.4,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 416,
+          "votes_przeciw": 19,
+          "votes_wstrzymal": 4,
+          "votes_brak": 13,
+          "votes_nieobecny": 27,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Romianowski Krzysztof",
+      "slug": "romianowski-krzysztof",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.4,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 368,
+          "votes_przeciw": 52,
+          "votes_wstrzymal": 34,
+          "votes_brak": 22,
+          "votes_nieobecny": 3,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Schneider Maria",
+      "slug": "schneider-maria",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 66.7,
+          "aktywnosc": 49.1,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 225,
+          "votes_przeciw": 5,
+          "votes_wstrzymal": 1,
+          "votes_brak": 4,
+          "votes_nieobecny": 146,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Smoliński Dariusz",
+      "slug": "smolinski-dariusz",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 349,
+          "votes_przeciw": 50,
+          "votes_wstrzymal": 36,
+          "votes_brak": 39,
+          "votes_nieobecny": 5,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Szałabawka Julia",
+      "slug": "szalabawka-julia",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 80.8,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 283,
+          "votes_przeciw": 44,
+          "votes_wstrzymal": 26,
+          "votes_brak": 34,
+          "votes_nieobecny": 92,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Słowik Przemysław",
+      "slug": "slowik-przemyslaw",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 93.3,
+          "aktywnosc": 97.5,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 431,
+          "votes_przeciw": 26,
+          "votes_wstrzymal": 3,
+          "votes_brak": 7,
+          "votes_nieobecny": 12,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Tyszler Łukasz",
+      "slug": "tyszler-lukasz",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.4,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 402,
+          "votes_przeciw": 29,
+          "votes_wstrzymal": 1,
+          "votes_brak": 44,
+          "votes_nieobecny": 3,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Wleklak Małgorzata",
+      "slug": "wleklak-malgorzata",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 86.7,
+          "aktywnosc": 82.0,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 361,
+          "votes_przeciw": 22,
+          "votes_wstrzymal": 1,
+          "votes_brak": 9,
+          "votes_nieobecny": 86,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    },
+    {
+      "name": "Łażewska Renata",
+      "slug": "lazewska-renata",
+      "kadencje": {
+        "2024-2029": {
+          "club": "?",
+          "frekwencja": 100.0,
+          "aktywnosc": 99.2,
+          "zgodnosc_z_klubem": 0,
+          "votes_za": 439,
+          "votes_przeciw": 25,
+          "votes_wstrzymal": 6,
+          "votes_brak": 5,
+          "votes_nieobecny": 4,
+          "votes_total": 479,
+          "rebellion_count": 0,
+          "rebellions": [],
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "roles": [],
+          "notes": "",
+          "former": false,
+          "mid_term": false
+        }
+      }
+    }
+  ]
+}
