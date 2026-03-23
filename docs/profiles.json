@@ -19,8 +19,9 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_000",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 243/24 w sprawie rozp",
+              "their_vote": "przeciw",
               "club_majority": "za"
             }
           ],
@@ -52,26 +53,30 @@
           "rebellions": [
             {
               "vote_id": "2025-01-28_010",
-              "topic": "przyjęcia projektu uchwały nr 3/25 w sprawie wyrażenia zgody na sprzedaż w drodz",
-              "vote": "wstrzymal_sie",
+              "session": "2025-01-28",
+              "topic": "przyjęcia projektu uchwały nr 3/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej zabu",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_013",
-              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc",
-              "vote": "przeciw",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uchwałę w sprawie ustalenia strefy płatneg",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_003",
-              "topic": "wniosku Komisji ds. Budownictwa i Mieszkalnictwa o zdjęcie z porządku obrad proj",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "wniosku Komisji ds. Budownictwa i Mieszkalnictwa o zdjęcie z porządku obrad projektu uchwały nr 253/25 w sprawie sprzeda",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2026-01-27_012",
-              "topic": "wniosku radnego Dariusza Smolińskiego o odesłanie projektu uchwały nr 8/26 do pr",
-              "vote": "za",
+              "session": "2026-01-27",
+              "topic": "wniosku radnego Dariusza Smolińskiego o odesłanie projektu uchwały nr 8/26 do projektodawcy",
+              "their_vote": "za",
               "club_majority": "przeciw"
             }
           ],
@@ -103,20 +108,23 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_001",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 244/24 w sprawie pety",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_013",
-              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uchwałę w sprawie ustalenia strefy płatneg",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_043",
+              "session": "2025-06-17",
               "topic": "wniosku radnego Łukasza Tyszlera o odesłanie projektu uchwały do projektodawcy",
-              "vote": "wstrzymal_sie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -174,32 +182,37 @@
           "rebellions": [
             {
               "vote_id": "2024-11-26_006",
-              "topic": "rozpatrzenie wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do por",
-              "vote": "wstrzymal_sie",
+              "session": "2024-11-26",
+              "topic": "rozpatrzenie wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 223/24 w",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-12-18_000",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 243/24 w sprawie rozp",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-12-18_026",
-              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany ",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany przepisów prawa w § 20 ust. 7 pkt. 1 Reg",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-02-25_001",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2025-02-25",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 38/25 w sprawie petyc",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_018",
-              "topic": "wniosku Przewodniczącego Rady Miasta o wprowadzenie do porządku obrad projektu u",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Przewodniczącego Rady Miasta o wprowadzenie do porządku obrad projektu uchwały nr 175/25 w sprawie powołania zes",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -231,92 +244,107 @@
           "rebellions": [
             {
               "vote_id": "2024-11-26_015",
-              "topic": "przyjęcia projektu uchwały nr 212/24 zmieniającej uchwałę w sprawie uchwalenia w",
-              "vote": "przeciw",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 212/24 zmieniającej uchwałę w sprawie uchwalenia wieloletniego programu gospodarowania mie",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2024-11-26_025",
-              "topic": "przyjęcia projektu uchwały nr 223/24 w sprawie wniosku dot. wprowadzenia nieodpł",
-              "vote": "za",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 223/24 w sprawie wniosku dot. wprowadzenia nieodpłatnej komunikacji miejskiej publicznej w",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2024-12-18_025",
-              "topic": "przyjęcia projektu uchwały nr 239/24 w sprawie wprowadzenia zasad i trybu przepr",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "przyjęcia projektu uchwały nr 239/24 w sprawie wprowadzenia zasad i trybu przeprowadzania Szczecińskiego Budżetu Obywate",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-02-25_007",
-              "topic": "przyjęcia projektu uchwały nr 26/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "wstrzymal_sie",
+              "session": "2025-02-25",
+              "topic": "przyjęcia projektu uchwały nr 26/25 w sprawie wyrażenia zgody na sprzedaż w drodze bezprzetargowej nieruchomości gruntow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-02-25_015",
-              "topic": "przyjęcia projektu uchwały nr 34/25 w sprawie udzielenia z budżetu Miasta Szczec",
-              "vote": "za",
+              "session": "2025-02-25",
+              "topic": "przyjęcia projektu uchwały nr 34/25 w sprawie udzielenia z budżetu Miasta Szczecin pomocy finansowej w formie dotacji ce",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_001",
-              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 5",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 53/25 w sprawie uzgodnienia granic Parku ",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-04-23_009",
-              "topic": "przyjęcia projektu uchwały nr 67/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 67/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej nie",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-04-23_021",
-              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wnio",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wniosku z dnia 21.02.2025 r. o uzupełninie o",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_010",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr",
-              "vote": "za",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr 167/25 w sprawie nadania nazwy urzędowe",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-06-17_013",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr",
-              "vote": "za",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowe",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-06-17_017",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 174/25 w sprawie podt",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-07-02_004",
-              "topic": "przyjęcia projektu uchwały nr 181/25 w sprawie zaciągnięcia kredytu w Europejski",
-              "vote": "za",
+              "session": "2025-07-02",
+              "topic": "przyjęcia projektu uchwały nr 181/25 w sprawie zaciągnięcia kredytu w Europejskim Banku Inwestycyjnym",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-11-25_006",
-              "topic": "wniosku radnego Piotra Kęsika o zdjęcie z porządku obrad projektu uchwały nr 267",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "wniosku radnego Piotra Kęsika o zdjęcie z porządku obrad projektu uchwały nr 267/25 zmieniającej uchwałę w sprawie okreś",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_026",
-              "topic": "przyjęcia projektu uchwały nr 272/25 w sprawie rozpatrzenia odwołania od uchwały",
-              "vote": "przeciw",
+              "session": "2025-11-25",
+              "topic": "przyjęcia projektu uchwały nr 272/25 w sprawie rozpatrzenia odwołania od uchwały Miejskiej Komisji Wyborczej w Szczecini",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_027",
-              "topic": "przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały",
-              "vote": "przeciw",
+              "session": "2025-11-25",
+              "topic": "przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały Miejskiej Komisji Wyborczej w Szczecini",
+              "their_vote": "przeciw",
               "club_majority": "za"
             }
           ],
@@ -348,8 +376,9 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_026",
-              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany ",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany przepisów prawa w § 20 ust. 7 pkt. 1 Reg",
+              "their_vote": "przeciw",
               "club_majority": "za"
             }
           ],
@@ -381,255 +410,143 @@
           "rebellions": [
             {
               "vote_id": "2024-05-28_010",
-              "topic": "przyjęcia projektu uchwały nr 81/24 w sprawie zmiany uchwały w sprawie przystąpi",
-              "vote": "przeciw",
+              "session": "2024-05-28",
+              "topic": "przyjęcia projektu uchwały nr 81/24 w sprawie zmiany uchwały w sprawie przystąpienia do sporządzenia miejscowego planu z",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-05-28_011",
-              "topic": "przyjęcia projektu uchwały nr 82/24 w sprawie miejscowego planu zagospodarowania",
-              "vote": "wstrzymal_sie",
+              "session": "2024-05-28",
+              "topic": "przyjęcia projektu uchwały nr 82/24 w sprawie miejscowego planu zagospodarowania przestrzennego „Zdroje – Zachód 2” w Sz",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-05-28_020",
-              "topic": "przyjęcia projektu uchwały nr 89/24 zmieniającej uchwałę w sprawie nadania nazwy",
-              "vote": "przeciw",
+              "session": "2024-05-28",
+              "topic": "przyjęcia projektu uchwały nr 89/24 zmieniającej uchwałę w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (u",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2024-06-18_033",
-              "topic": "przyjęcia projektu uchwały nr 126/24 w sprawie skargi na Prezydenta Miasta Szcze",
-              "vote": "przeciw",
+              "session": "2024-06-18",
+              "topic": "przyjęcia projektu uchwały nr 126/24 w sprawie skargi na Prezydenta Miasta Szczecin",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-11-26_023",
-              "topic": "przyjęcia projektu uchwały nr 221/24 w sprawie skargi na Prezydenta Miasta Szcze",
-              "vote": "wstrzymal_sie",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 221/24 w sprawie skargi na Prezydenta Miasta Szczecin",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-11-26_024",
-              "topic": "przyjęcia projektu uchwały nr 222/24 w sprawie wniosku dot. możliwości zmiany pr",
-              "vote": "wstrzymal_sie",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 222/24 w sprawie wniosku dot. możliwości zmiany przepisu §1 pkt 4 Uchwały Nr XVIII/724/17 ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2024-11-26_026",
-              "topic": "przyjęcia projektu uchwały nr 224/24 w sprawie petycji dot. ustalenia kierunków ",
-              "vote": "przeciw",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 224/24 w sprawie petycji dot. ustalenia kierunków działań dla Prezydenta Miasta Szczecin w",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-01-28_018",
-              "topic": "przyjęcia projektu uchwały nr 11/25 w sprawie uznania Planu adaptacji do zmian k",
-              "vote": "przeciw",
+              "session": "2025-01-28",
+              "topic": "przyjęcia projektu uchwały nr 11/25 w sprawie uznania Planu adaptacji do zmian klimatu dla miasta Szczecin za miejski pl",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-02-25_010",
-              "topic": "przyjęcia projektu uchwały nr 29/25 zmieniającej uchwałę w sprawie zmian w organ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-02-25",
+              "topic": "przyjęcia projektu uchwały nr 29/25 zmieniającej uchwałę w sprawie zmian w organizacji instytucjonalnej pieczy zastępcze",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-02-25_014",
-              "topic": "przyjęcia projektu uchwały nr 33/25 zmieniającej uchwałę w sprawie trybu udziela",
-              "vote": "wstrzymal_sie",
+              "session": "2025-02-25",
+              "topic": "przyjęcia projektu uchwały nr 33/25 zmieniającej uchwałę w sprawie trybu udzielania i rozliczania dotacji dla przedszkol",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-02-25_015",
-              "topic": "przyjęcia projektu uchwały nr 34/25 w sprawie udzielenia z budżetu Miasta Szczec",
-              "vote": "przeciw",
+              "session": "2025-02-25",
+              "topic": "przyjęcia projektu uchwały nr 34/25 w sprawie udzielenia z budżetu Miasta Szczecin pomocy finansowej w formie dotacji ce",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_002",
-              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu  uchwały nr ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu  uchwały nr 63/25 w sprawie zaliczenia działki nr 13",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_020",
-              "topic": "przyjęcia projektu uchwały nr 49/25 w sprawie zmiany przebiegu ul. Michała Kleof",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 49/25 w sprawie zmiany przebiegu ul. Michała Kleofasa Ogińskiego zaliczonej do kategorii d",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-03-25_029",
-              "topic": "przyjęcia projektu uchwały nr 54/25 w sprawie nadania nazw urzędowych ulicom w m",
-              "vote": "przeciw",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 54/25 w sprawie nadania nazw urzędowych ulicom w mieście Szczecinie (ul. Antracytowa, ul. ",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_030",
-              "topic": "przyjęcia projektu uchwały nr 55/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 55/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Sztafetowa)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_031",
-              "topic": "przyjęcia projektu uchwały nr 56/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 56/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Sympatyczna)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_033",
-              "topic": "przyjęcia projektu uchwały nr 58/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 58/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Pod Lasem)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_034",
-              "topic": "przyjęcia projektu uchwały nr 59/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 59/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Rekowska)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-04-23_006",
-              "topic": "przyjęcia projektu uchwały nr 43/25 w sprawie sprzedaży w drodze bezprzetargowej",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 43/25 w sprawie sprzedaży w drodze bezprzetargowej zabudowanej  nieruchomości gruntowej po",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-04-23_009",
-              "topic": "przyjęcia projektu uchwały nr 67/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 67/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej nie",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-04-23_012",
-              "topic": "przyjęcia projektu uchwały nr 70/25 w sprawie nadania statutu Szczecińskiemu Cen",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-04-23_022",
-              "topic": "przyjęcia projektu uchwały nr 80/25 w sprawie skargi na Dyrektor Centrum Opieki ",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-04-23_024",
-              "topic": "przyjęcia projektu uchwały nr 86/25 w sprawie przyznania Rentumi Tower Sp. z o.o",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-04-23_034",
-              "topic": "przyjęcia projektu uchwały nr 96/25 w sprawie przyznania Gminie Wyznaniowej Żydo",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-04-23_036",
-              "topic": "przyjęcia projektu uchwały nr 98/25 w sprawie przyznania Rentumi Tower Sp. z o.o",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-06-17_026",
-              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-06-17_046",
-              "topic": "przyjęcia projektu uchwały nr 163/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-06-17_052",
-              "topic": "przyjęcia projektu uchwały nr 169/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-06-17_054",
-              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku",
-              "vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-06-17_055",
-              "topic": "przyjęcia projektu uchwały nr 171/25 w sprawie petycji dotyczącej zmian w Regula",
-              "vote": "za",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-06-17_056",
-              "topic": "przyjęcia projektu uchwały nr 172/25 w sprawie petycji dotyczącej Parku Leśnego ",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-06-17_058",
-              "topic": "przyjęcia projektu uchwały nr 174/25 w sprawie podtrzymania stanowiska do ponowi",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-02_002",
-              "topic": "przyjęcia projektu uchwały nr 180/25 w sprawie zmiany Wieloletniej Prognozy Fina",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-25_006",
-              "topic": "wniosku radnego Piotra Kęsika o zdjęcie z porządku obrad projektu uchwały nr 267",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-25_009",
-              "topic": "przyjęcia projektu uchwały nr 251/25 zmieniającej Uchwałę w sprawie wyrażenia zg",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-25_015",
-              "topic": "przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszko",
-              "vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-11-25_024",
-              "topic": "przyjęcia projektu uchwały nr 268/25 w sprawie skargi na Dyrektor Centrum Opieki",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-25_026",
-              "topic": "przyjęcia projektu uchwały nr 272/25 w sprawie rozpatrzenia odwołania od uchwały",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-25_027",
-              "topic": "przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-16_033",
-              "topic": "przyjęcia projektu uchwały nr 289/25 w sprawie przyjęcia \"Gminnego Programu Prof",
-              "vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-27_015",
-              "topic": "przyjęcia projektu uchwały nr 10/26 w sprawie zapewnienia warunków do osiedlenia",
-              "vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-27_019",
-              "topic": "przyjęcia projektu uchwały nr 14/26 w sprawie skargi na Prezydenta Miasta Szczec",
-              "vote": "przeciw",
-              "club_majority": "za"
             }
           ],
           "has_voting_data": true,
@@ -660,14 +577,16 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_026",
-              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany ",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany przepisów prawa w § 20 ust. 7 pkt. 1 Reg",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_015",
-              "topic": "przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszko",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszkola Publicznego Nr 60 w Szczecinie poprze",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -699,26 +618,30 @@
           "rebellions": [
             {
               "vote_id": "2025-02-25_001",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2025-02-25",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 38/25 w sprawie petyc",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_043",
+              "session": "2025-06-17",
               "topic": "wniosku radnego Łukasza Tyszlera o odesłanie projektu uchwały do projektodawcy",
-              "vote": "wstrzymal_sie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_004",
-              "topic": "wniosku Klubu Radnych Prawo i Sprawiedliwość o zdjęcie z porządku obrad projektu",
-              "vote": "za",
+              "session": "2025-11-25",
+              "topic": "wniosku Klubu Radnych Prawo i Sprawiedliwość o zdjęcie z porządku obrad projektu uchwały nr 258/25 w sprawie zamiaru prz",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-12-16_043",
-              "topic": "przyjęcia projektu uchwały nr 221/25 w sprawie oceny sytuacji ekonomiczno-finans",
-              "vote": "wstrzymal_sie",
+              "session": "2025-12-16",
+              "topic": "przyjęcia projektu uchwały nr 221/25 w sprawie oceny sytuacji ekonomiczno-finansowej Szczecińskiego Centrum Zdrowia Samo",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -750,20 +673,23 @@
           "rebellions": [
             {
               "vote_id": "2025-11-25_000",
-              "topic": "przyjęcia protokołu z XV zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 9 ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "przyjęcia protokołu z XV zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 9 października 2025 r.",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-12-16_003",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2025-12-16",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 299/25 w sprawie podt",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-12-16_009",
-              "topic": "przyjęcia poprawki nr 3 klubu radnych PiS do projektu uchwały nr  270/25 w spraw",
-              "vote": "wstrzymal_sie",
+              "session": "2025-12-16",
+              "topic": "przyjęcia poprawki nr 3 klubu radnych PiS do projektu uchwały nr  270/25 w sprawie budżetu Miasta Szczecin na 2026 rok",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             }
           ],
@@ -795,20 +721,23 @@
           "rebellions": [
             {
               "vote_id": "2024-05-28_014",
-              "topic": "wniosku radnego Marka Duklanowskiego o usunięcie § 2 w projekcie uchwały nr 85/2",
-              "vote": "za",
+              "session": "2024-05-28",
+              "topic": "wniosku radnego Marka Duklanowskiego o usunięcie § 2 w projekcie uchwały nr 85/24 w sprawie uzgodnienia odstępstw od zak",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2024-12-18_001",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 244/24 w sprawie pety",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2026-01-27_008",
-              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania ",
-              "vote": "wstrzymal_sie",
+              "session": "2026-01-27",
+              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego \"Skolwin – Przęsocińska, ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -840,8 +769,9 @@
           "rebellions": [
             {
               "vote_id": "2025-12-16_011",
-              "topic": "przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-12-16",
+              "topic": "przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawie budżetu Miasta Szczecin na 2026 rok",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             }
           ],
@@ -873,14 +803,16 @@
           "rebellions": [
             {
               "vote_id": "2025-04-23_040",
-              "topic": "przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego s",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego sprzeciwu wobec tworzenia w Szczecinie Ce",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-11-25_004",
-              "topic": "wniosku Klubu Radnych Prawo i Sprawiedliwość o zdjęcie z porządku obrad projektu",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "wniosku Klubu Radnych Prawo i Sprawiedliwość o zdjęcie z porządku obrad projektu uchwały nr 258/25 w sprawie zamiaru prz",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             }
           ],
@@ -912,8 +844,9 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_001",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 244/24 w sprawie pety",
+              "their_vote": "przeciw",
               "club_majority": "za"
             }
           ],
@@ -945,20 +878,23 @@
           "rebellions": [
             {
               "vote_id": "2025-02-25_001",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2025-02-25",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 38/25 w sprawie petyc",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_028",
-              "topic": "wniosku radnego Henryka Jerzyka o zakończenie dyskusji nad projektem uchwały nr ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Henryka Jerzyka o zakończenie dyskusji nad projektem uchwały nr 142/25 i przejście do głosowania",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_042",
-              "topic": "wniosku radnego Wojciecha Dorżynkiewicza o głosowanie bez dyskusji nad projektem",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Wojciecha Dorżynkiewicza o głosowanie bez dyskusji nad projektem uchwały nr 160/25",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -990,116 +926,135 @@
           "rebellions": [
             {
               "vote_id": "2024-11-26_025",
-              "topic": "przyjęcia projektu uchwały nr 223/24 w sprawie wniosku dot. wprowadzenia nieodpł",
-              "vote": "za",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 223/24 w sprawie wniosku dot. wprowadzenia nieodpłatnej komunikacji miejskiej publicznej w",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2024-12-18_025",
-              "topic": "przyjęcia projektu uchwały nr 239/24 w sprawie wprowadzenia zasad i trybu przepr",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "przyjęcia projektu uchwały nr 239/24 w sprawie wprowadzenia zasad i trybu przeprowadzania Szczecińskiego Budżetu Obywate",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_001",
-              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 5",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 53/25 w sprawie uzgodnienia granic Parku ",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-03-25_019",
-              "topic": "przyjęcia projektu uchwały nr 63/25 w sprawie zaliczenia działki nr 13/5 z obręb",
-              "vote": "przeciw",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 63/25 w sprawie zaliczenia działki nr 13/5 z obrębu 1021 do kategorii dróg gminnych na ter",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_030",
-              "topic": "przyjęcia projektu uchwały nr 55/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 55/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Sztafetowa)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_036",
-              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Przesiadkowa)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-04-23_009",
-              "topic": "przyjęcia projektu uchwały nr 67/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 67/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej nie",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-04-23_021",
-              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wnio",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wniosku z dnia 21.02.2025 r. o uzupełninie o",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-04-23_022",
-              "topic": "przyjęcia projektu uchwały nr 80/25 w sprawie skargi na Dyrektor Centrum Opieki ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 80/25 w sprawie skargi na Dyrektor Centrum Opieki nad Dzieckiem w Szczecinie,",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-04-23_041",
-              "topic": "przyjęcia projektu uchwały nr 101/25 zmieniającej uchwałę w sprawie powołania ko",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 101/25 zmieniającej uchwałę w sprawie powołania komisji stałych Rady Miasta Szczecin oraz ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_001",
-              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 1",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 158/25 w sprawie ogłoszenia zamiaru połąc",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_005",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 162/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_041",
-              "topic": "przyjęcia projektu uchwały nr 159/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "za",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 159/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Mineralna)",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-06-17_056",
-              "topic": "przyjęcia projektu uchwały nr 172/25 w sprawie petycji dotyczącej Parku Leśnego ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 172/25 w sprawie petycji dotyczącej Parku Leśnego Klęskowo, ulicy Jęczmiennej oraz strumyk",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_057",
-              "topic": "przyjęcia projektu uchwały nr 173/25 w sprawie petycji dotyczącej pomników przyr",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 173/25 w sprawie petycji dotyczącej pomników przyrody",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_058",
-              "topic": "przyjęcia projektu uchwały nr 174/25 w sprawie podtrzymania stanowiska do ponowi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 174/25 w sprawie podtrzymania stanowiska do ponowionej skargi na Dyrektor Centrum Opieki n",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_006",
-              "topic": "wniosku radnego Piotra Kęsika o zdjęcie z porządku obrad projektu uchwały nr 267",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "wniosku radnego Piotra Kęsika o zdjęcie z porządku obrad projektu uchwały nr 267/25 zmieniającej uchwałę w sprawie okreś",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_026",
-              "topic": "przyjęcia projektu uchwały nr 272/25 w sprawie rozpatrzenia odwołania od uchwały",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "przyjęcia projektu uchwały nr 272/25 w sprawie rozpatrzenia odwołania od uchwały Miejskiej Komisji Wyborczej w Szczecini",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_027",
-              "topic": "przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały Miejskiej Komisji Wyborczej w Szczecini",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1131,8 +1086,9 @@
           "rebellions": [
             {
               "vote_id": "2025-11-25_004",
-              "topic": "wniosku Klubu Radnych Prawo i Sprawiedliwość o zdjęcie z porządku obrad projektu",
-              "vote": "za",
+              "session": "2025-11-25",
+              "topic": "wniosku Klubu Radnych Prawo i Sprawiedliwość o zdjęcie z porządku obrad projektu uchwały nr 258/25 w sprawie zamiaru prz",
+              "their_vote": "za",
               "club_majority": "przeciw"
             }
           ],
@@ -1164,14 +1120,16 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_023",
-              "topic": "wniosek radnego Przemysława Słowika o zakończenie dyskusji i przejście do głosow",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "wniosek radnego Przemysława Słowika o zakończenie dyskusji i przejście do głosowania nad projektem uchwały nr 239/24 w s",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-07-02_001",
-              "topic": "wniosku radnego Łukasza Tyszlera o głosowanie bez dyskusji nad projektem uchwały",
-              "vote": "wstrzymal_sie",
+              "session": "2025-07-02",
+              "topic": "wniosku radnego Łukasza Tyszlera o głosowanie bez dyskusji nad projektem uchwały nr 180/25 w sprawie zmiany Wieloletniej",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1203,38 +1161,44 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_001",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 244/24 w sprawie pety",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-01-28_009",
-              "topic": "przyjęcia projektu uchwały nr 2/25 w sprawie miejscowego planu zagospodarowania ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-01-28",
+              "topic": "przyjęcia projektu uchwały nr 2/25 w sprawie miejscowego planu zagospodarowania przestrzennego „Głębokie” w Szczecinie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-02-25_001",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2025-02-25",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 38/25 w sprawie petyc",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_013",
-              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uchwałę w sprawie ustalenia strefy płatneg",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_043",
+              "session": "2025-06-17",
               "topic": "wniosku radnego Łukasza Tyszlera o odesłanie projektu uchwały do projektodawcy",
-              "vote": "wstrzymal_sie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_053",
-              "topic": "wniosku radnego Marka Duklanowskiego o odesłanie do projektodawcy projektu uchwa",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Marka Duklanowskiego o odesłanie do projektodawcy projektu uchwały nr 170/25 w celu ponownej analizy",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             }
           ],
@@ -1266,44 +1230,51 @@
           "rebellions": [
             {
               "vote_id": "2024-05-28_020",
-              "topic": "przyjęcia projektu uchwały nr 89/24 zmieniającej uchwałę w sprawie nadania nazwy",
-              "vote": "za",
+              "session": "2024-05-28",
+              "topic": "przyjęcia projektu uchwały nr 89/24 zmieniającej uchwałę w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (u",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_011",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr",
-              "vote": "przeciw",
+              "session": "2025-03-25",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_036",
-              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Przesiadkowa)",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_002",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 159/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_011",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr 168/25 w sprawie nadania nazwy urzędowe",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_045",
-              "topic": "przyjęcia projektu uchwały nr 162/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "za",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 162/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Baziowa)",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-07-02_002",
-              "topic": "przyjęcia projektu uchwały nr 180/25 w sprawie zmiany Wieloletniej Prognozy Fina",
-              "vote": "wstrzymal_sie",
+              "session": "2025-07-02",
+              "topic": "przyjęcia projektu uchwały nr 180/25 w sprawie zmiany Wieloletniej Prognozy Finansowej Miasta Szczecin",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1335,44 +1306,51 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_026",
-              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany ",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "przyjęcia projektu uchwały nr 243/24 w sprawie rozpatrzenia petycji dot. zmiany przepisów prawa w § 20 ust. 7 pkt. 1 Reg",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-02-25_001",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2025-02-25",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 38/25 w sprawie petyc",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-04-23_040",
-              "topic": "przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego s",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego sprzeciwu wobec tworzenia w Szczecinie Ce",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_042",
-              "topic": "wniosku radnego Wojciecha Dorżynkiewicza o głosowanie bez dyskusji nad projektem",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Wojciecha Dorżynkiewicza o głosowanie bez dyskusji nad projektem uchwały nr 160/25",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_043",
+              "session": "2025-06-17",
               "topic": "wniosku radnego Łukasza Tyszlera o odesłanie projektu uchwały do projektodawcy",
-              "vote": "wstrzymal_sie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_050",
-              "topic": "przyjęcia projektu uchwały nr 167/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 167/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Kopciuszka)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_054",
-              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku w Szczecinie (Ogród Różanka im. Ireny B",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1404,32 +1382,37 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_001",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 244/24 w sprawie pety",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-02-25_001",
-              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "wstrzymal_sie",
+              "session": "2025-02-25",
+              "topic": "wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 38/25 w sprawie petyc",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_013",
-              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uchwałę w sprawie ustalenia strefy płatneg",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_000",
-              "topic": "przyjęcia protokołu z XII zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 2",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia protokołu z XII zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 27 maja 2025 r.",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_026",
-              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej zab",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1461,26 +1444,30 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_001",
-              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad p",
-              "vote": "przeciw",
+              "session": "2024-12-18",
+              "topic": "Wniosku Komisji ds. Skarg, Wniosków i Petycji o wprowadzenie do porządku obrad projektu uchwały nr 244/24 w sprawie pety",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-04-23_008",
-              "topic": "przyjęcia projektu uchwały nr 65/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 65/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej nie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_015",
-              "topic": "przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszko",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszkola Publicznego Nr 60 w Szczecinie poprze",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2026-01-27_008",
-              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania ",
-              "vote": "wstrzymal_sie",
+              "session": "2026-01-27",
+              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego \"Skolwin – Przęsocińska, ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1512,26 +1499,30 @@
           "rebellions": [
             {
               "vote_id": "2025-03-25_035",
-              "topic": "przyjęcia projektu uchwały nr 60/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 60/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Przystani)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_042",
-              "topic": "wniosku radnego Wojciecha Dorżynkiewicza o głosowanie bez dyskusji nad projektem",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Wojciecha Dorżynkiewicza o głosowanie bez dyskusji nad projektem uchwały nr 160/25",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_043",
+              "session": "2025-06-17",
               "topic": "wniosku radnego Łukasza Tyszlera o odesłanie projektu uchwały do projektodawcy",
-              "vote": "wstrzymal_sie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2026-01-27_008",
-              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania ",
-              "vote": "wstrzymal_sie",
+              "session": "2026-01-27",
+              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego \"Skolwin – Przęsocińska, ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1563,50 +1554,58 @@
           "rebellions": [
             {
               "vote_id": "2025-03-25_032",
-              "topic": "przyjęcia projektu uchwały nr 57/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 57/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Nagietkowa)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_034",
-              "topic": "przyjęcia projektu uchwały nr 59/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 59/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Rekowska)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_036",
-              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Przesiadkowa)",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-03-25_037",
-              "topic": "przyjęcia projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej dla parku ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej dla parku w Szczecinie (Park Władysława Bartoszews",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-05-27_046",
-              "topic": "przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Oś",
-              "vote": "wstrzymal_sie",
+              "session": "2025-05-27",
+              "topic": "przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Ośrodka Pomocy Rodzinie w Szczecinie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_002",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 159/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_011",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały nr 168/25 w sprawie nadania nazwy urzędowe",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_045",
-              "topic": "przyjęcia projektu uchwały nr 162/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "za",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 162/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Baziowa)",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             }
           ],
@@ -1638,14 +1637,16 @@
           "rebellions": [
             {
               "vote_id": "2024-12-18_003",
-              "topic": "Przyjęcia protokołu z VI zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 26",
-              "vote": "wstrzymal_sie",
+              "session": "2024-12-18",
+              "topic": "Przyjęcia protokołu z VI zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 26 listopada 2024 r.",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_013",
-              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc",
-              "vote": "za",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uchwałę w sprawie ustalenia strefy płatneg",
+              "their_vote": "za",
               "club_majority": "przeciw"
             }
           ],
@@ -1677,80 +1678,93 @@
           "rebellions": [
             {
               "vote_id": "2024-06-18_000",
-              "topic": "Wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 1",
-              "vote": "za",
+              "session": "2024-06-18",
+              "topic": "Wniosku Prezydenta Miasta o wprowadzenie do porządku obrad projektu uchwały nr 124/24 w sprawie wyrażenia stanowiska apr",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2024-11-26_024",
-              "topic": "przyjęcia projektu uchwały nr 222/24 w sprawie wniosku dot. możliwości zmiany pr",
-              "vote": "wstrzymal_sie",
+              "session": "2024-11-26",
+              "topic": "przyjęcia projektu uchwały nr 222/24 w sprawie wniosku dot. możliwości zmiany przepisu §1 pkt 4 Uchwały Nr XVIII/724/17 ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-01-28_026",
-              "topic": "przyjęcia projektu uchwały nr 20/25 w sprawie skargi na nieprawidłowe działania ",
-              "vote": "za",
+              "session": "2025-01-28",
+              "topic": "przyjęcia projektu uchwały nr 20/25 w sprawie skargi na nieprawidłowe działania Dyrektora Miejskiego Ośrodka Pomocy Rodz",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_037",
-              "topic": "przyjęcia projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej dla parku ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej dla parku w Szczecinie (Park Władysława Bartoszews",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-04-23_021",
-              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wnio",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wniosku z dnia 21.02.2025 r. o uzupełninie o",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-05-27_045",
-              "topic": "przyjęcia projektu uchwały nr 143/25 w sprawie petycji dot. ustanowienia Trybuny",
-              "vote": "wstrzymal_sie",
+              "session": "2025-05-27",
+              "topic": "przyjęcia projektu uchwały nr 143/25 w sprawie petycji dot. ustanowienia Trybuny Obywatelskiej",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-05-27_046",
-              "topic": "przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Oś",
-              "vote": "wstrzymal_sie",
+              "session": "2025-05-27",
+              "topic": "przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Ośrodka Pomocy Rodzinie w Szczecinie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_004",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 161/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_005",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 162/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_007",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 164/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_026",
-              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej zab",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_031",
-              "topic": "przyjęcia projektu uchwały nr 147/25 w sprawie udzielenia bonifikaty od cen nett",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 147/25 w sprawie udzielenia bonifikaty od cen netto nieruchomości gruntowych niezabudowany",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-12-16_033",
-              "topic": "przyjęcia projektu uchwały nr 289/25 w sprawie przyjęcia \"Gminnego Programu Prof",
-              "vote": "wstrzymal_sie",
+              "session": "2025-12-16",
+              "topic": "przyjęcia projektu uchwały nr 289/25 w sprawie przyjęcia \"Gminnego Programu Profilaktyki i Rozwiązywania Problemów Alkoh",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1782,62 +1796,72 @@
           "rebellions": [
             {
               "vote_id": "2025-01-28_026",
-              "topic": "przyjęcia projektu uchwały nr 20/25 w sprawie skargi na nieprawidłowe działania ",
-              "vote": "za",
+              "session": "2025-01-28",
+              "topic": "przyjęcia projektu uchwały nr 20/25 w sprawie skargi na nieprawidłowe działania Dyrektora Miejskiego Ośrodka Pomocy Rodz",
+              "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-03-25_031",
-              "topic": "przyjęcia projektu uchwały nr 56/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 56/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Sympatyczna)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-03-25_036",
-              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 61/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Przesiadkowa)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-03-25_037",
-              "topic": "przyjęcia projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej dla parku ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 62/25 w sprawie nadania nazwy urzędowej dla parku w Szczecinie (Park Władysława Bartoszews",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-04-23_021",
-              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wnio",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 79/25 w sprawie skargi na sposób rozpatrzenia wniosku z dnia 21.02.2025 r. o uzupełninie o",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-05-27_046",
-              "topic": "przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Oś",
-              "vote": "wstrzymal_sie",
+              "session": "2025-05-27",
+              "topic": "przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Ośrodka Pomocy Rodzinie w Szczecinie",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_004",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 161/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_005",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 162/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_009",
-              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tn",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku Komisji ds. Kultury o wprowadzenie do porządku obrad projektu uchwały \tnr 166/25 w sprawie nadania nazwy urzędow",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_026",
-              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drod",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 42/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej zab",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -1869,26 +1893,30 @@
           "rebellions": [
             {
               "vote_id": "2025-04-23_030",
-              "topic": "przyjęcia projektu uchwały nr 92/25 w sprawie przyznania Parafii Rzymskokatolick",
-              "vote": "wstrzymal_sie",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 92/25 w sprawie przyznania Parafii Rzymskokatolickiej p.w. Wniebowzięcia N.M.P. w Szczecin",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_054",
-              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku w Szczecinie (Ogród Różanka im. Ireny B",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2026-01-27_008",
-              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania ",
-              "vote": "wstrzymal_sie",
+              "session": "2026-01-27",
+              "topic": "przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego \"Skolwin – Przęsocińska, ",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2026-01-27_024",
-              "topic": "wniosku radnego Krzysztofa Romianowskiego o odesłanie do projektodawcy projektu ",
-              "vote": "za",
+              "session": "2026-01-27",
+              "topic": "wniosku radnego Krzysztofa Romianowskiego o odesłanie do projektodawcy projektu uchwały nr 19/26 w sprawie delegowania r",
+              "their_vote": "za",
               "club_majority": "przeciw"
             }
           ],
@@ -1920,32 +1948,37 @@
           "rebellions": [
             {
               "vote_id": "2025-04-23_040",
-              "topic": "przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego s",
-              "vote": "za",
+              "session": "2025-04-23",
+              "topic": "przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego sprzeciwu wobec tworzenia w Szczecinie Ce",
+              "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-06-17_048",
-              "topic": "przyjęcia projektu uchwały nr 165/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "przeciw",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 165/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Orlej Perci)",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_049",
-              "topic": "przyjęcia projektu uchwały nr 166/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "przeciw",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 166/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Kościeliska)",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_050",
-              "topic": "przyjęcia projektu uchwały nr 167/25 w sprawie nadania nazwy urzędowej ulicy w m",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 167/25 w sprawie nadania nazwy urzędowej ulicy w mieście Szczecinie (ul. Kopciuszka)",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_054",
-              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku",
-              "vote": "przeciw",
+              "session": "2025-06-17",
+              "topic": "przyjęcia projektu uchwały nr 170/25 w sprawie nadania nazwy urzędowej dla parku w Szczecinie (Ogród Różanka im. Ireny B",
+              "their_vote": "przeciw",
               "club_majority": "za"
             }
           ],
@@ -1977,8 +2010,9 @@
           "rebellions": [
             {
               "vote_id": "2024-06-18_014",
-              "topic": "przyjęcia projektu uchwały nr 101/24 w sprawie wyrażenia zgody na sprzedaż w dro",
-              "vote": "wstrzymal_sie",
+              "session": "2024-06-18",
+              "topic": "przyjęcia projektu uchwały nr 101/24 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruchomości gruntowej ni",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
           ],
@@ -2010,56 +2044,65 @@
           "rebellions": [
             {
               "vote_id": "2025-03-25_013",
-              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc",
-              "vote": "przeciw",
+              "session": "2025-03-25",
+              "topic": "przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uchwałę w sprawie ustalenia strefy płatneg",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_028",
-              "topic": "wniosku radnego Henryka Jerzyka o zakończenie dyskusji nad projektem uchwały nr ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Henryka Jerzyka o zakończenie dyskusji nad projektem uchwały nr 142/25 i przejście do głosowania",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_039",
-              "topic": "wniosku radnego Łukasza Tyszlera o głosowanie bez dyskusji nad projektem uchwały",
-              "vote": "wstrzymal_sie",
+              "session": "2025-06-17",
+              "topic": "wniosku radnego Łukasza Tyszlera o głosowanie bez dyskusji nad projektem uchwały nr 158/25",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-06-17_043",
+              "session": "2025-06-17",
               "topic": "wniosku radnego Łukasza Tyszlera o odesłanie projektu uchwały do projektodawcy",
-              "vote": "przeciw",
+              "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_005",
-              "topic": "wniosku Prezydenta Miasta o zdjęcie z porządku obrad projektu uchwały nr 221/25 ",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "wniosku Prezydenta Miasta o zdjęcie z porządku obrad projektu uchwały nr 221/25 w sprawie oceny sytuacji ekonomiczno-fin",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-11-25_022",
-              "topic": "wniosku radnego Łukasza Tyszlera o przejście do głosowania nad projektem uchwały",
-              "vote": "wstrzymal_sie",
+              "session": "2025-11-25",
+              "topic": "wniosku radnego Łukasza Tyszlera o przejście do głosowania nad projektem uchwały nr 266/25 w sprawie przyjęcia Strategii",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
               "vote_id": "2025-12-16_008",
-              "topic": "przyjęcia poprawki nr 2 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-12-16",
+              "topic": "przyjęcia poprawki nr 2 klubu radnych PiS do projektu uchwały nr 270/25 w sprawie budżetu Miasta Szczecin na 2026 rok",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-12-16_010",
-              "topic": "przyjęcia poprawki nr 4 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi",
-              "vote": "wstrzymal_sie",
+              "session": "2025-12-16",
+              "topic": "przyjęcia poprawki nr 4 klubu radnych PiS do projektu uchwały nr 270/25 w sprawie budżetu Miasta Szczecin na 2026 rok",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-12-16_011",
-              "topic": "przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi",
-              "vote": "za",
+              "session": "2025-12-16",
+              "topic": "przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawie budżetu Miasta Szczecin na 2026 rok",
+              "their_vote": "za",
               "club_majority": "przeciw"
             }
           ],
