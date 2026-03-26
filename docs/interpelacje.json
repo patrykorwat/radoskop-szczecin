@@ -1,5 +1,53 @@
 [
   {
+    "cri": "szczecin-2024-2029-1899",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1899",
+    "typ": "zapytanie",
+    "tytul": "Dot. realizacji uchwały  Rady Miasta Szczecin nr LIV/1522/23 z dnia 7 listopada 2023  r. - Biokompostownia przy ul. Gdańskiej 16 w Szczecinie",
+    "radny": "Herczyński  Roman",
+    "data_wplywu": "2026-03-25",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=A214EE67066A4653BB0D501FE4E188AF"
+  },
+  {
+    "cri": "szczecin-2024-2029-1898",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1898",
+    "typ": "interpelacja",
+    "tytul": "Dot. nadania nazwy ulicy imieniem prof. Zbigniewa Kruszewskiego",
+    "radny": "Szałabawka Julia, Smoliński Dariusz",
+    "data_wplywu": "2026-03-24",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=74BFEF6A208D4020AC4EC584B7BB402A"
+  },
+  {
+    "cri": "szczecin-2024-2029-1897",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1897",
+    "typ": "interpelacja",
+    "tytul": "Dot. odnowienia oznakowania poziomego na ścieżce pieszo-rowerowej wzdłuż Syrenich Stawów i Arkonki",
+    "radny": "Kępka Wojciech",
+    "data_wplywu": "2026-03-24",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=BE20E7FDD8354CF28D0E86BAFF243B7E"
+  },
+  {
+    "cri": "szczecin-2024-2029-1896",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1896",
+    "typ": "interpelacja",
+    "tytul": "Dot. oceny skutków wprowadzenia nocnej prohibicji w Szczecinie",
+    "radny": "Smoliński Dariusz",
+    "data_wplywu": "2026-03-24",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=A1564E7B810B49A2BFA1DE3CCCD68C3E"
+  },
+  {
     "cri": "szczecin-2024-2029-1895",
     "miasto": "szczecin",
     "kadencja": "2024-2029",
@@ -284,7 +332,7 @@
     "tytul": "Dot. eksponowania makabrycznych zdjęć martwych płodów w przestrzeni publicznej Szczecina",
     "radny": "Słowik Przemysław",
     "data_wplywu": "2026-03-16",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-25",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=052F92029F13492E8A71177827E08794"
   },
   {
@@ -344,7 +392,7 @@
     "tytul": "Dot. opóźnień w budowie Mediateki",
     "radny": "Smoliński Dariusz",
     "data_wplywu": "2026-03-13",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-25",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=E1232A20548A467DB7A4A68B79DDCAC6"
   },
   {
@@ -476,7 +524,7 @@
     "tytul": "Dot. koordynacji sygnalizacji świetlnej na ciągu ulic 26 Kwietnia – Krzywoustego w kierunku placu Kościuszki",
     "radny": "Duklanowski Marek",
     "data_wplywu": "2026-03-10",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=B19CF73C41C948FB8F8ABE5316B00958"
   },
   {
@@ -500,7 +548,7 @@
     "tytul": "Dot. zmiany programu sygnalizacji świetlnej na skrzyżowaniu ul. Felczaka i ul. Monte Cassino w Szczecinie",
     "radny": "Duklanowski Marek",
     "data_wplywu": "2026-03-10",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=AD26334030F149ADB831BBEE4EE26A77"
   },
   {
@@ -896,7 +944,7 @@
     "tytul": "Dot. zmiany stałej organizacji ruchu na  skrzyżowaniu ul. Goleniowskiej i Portowej",
     "radny": "Herczyński  Roman",
     "data_wplywu": "2026-02-23",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=695C358866E64A82A47C356642D114C5"
   },
   {
@@ -1004,7 +1052,7 @@
     "tytul": "Dot. niedrożności przepustu potoku Pilchówka i oblodzenia ciągu pieszo-rowerowego wzdłuż ul. Zegadłowicza (osiedle Głębokie-Pilchowo)",
     "radny": "Duklanowski Marek",
     "data_wplywu": "2026-02-19",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=6E72D1FAA0FF438D9E099C118A417428"
   },
   {
@@ -1016,7 +1064,7 @@
     "tytul": "Dot. pilnego usunięcia ubytków w jezdni ul. Tama Pomorzańska i wykonania napraw cząstkowych nawierzchn",
     "radny": "Szałabawka Julia",
     "data_wplywu": "2026-02-19",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-25",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=25F1DAA587424119858A84C023890014"
   },
   {
@@ -1124,7 +1172,7 @@
     "tytul": "Dot. spowolnienia ruchu na  ul. Piasecznej na wysokości Szkoły Podstawowej nr 28 w Szczecinie (Osiedle  Płonia, Śmierdnica, Jezierzyce)",
     "radny": "Herczyński  Roman",
     "data_wplywu": "2026-02-17",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=9F7A0BFA383E43478B26843E3B0875F1"
   },
   {
@@ -1136,7 +1184,7 @@
     "tytul": "Dot. sugerowanych przejść  dla pieszych w Szczecinie",
     "radny": "Abramowicz  Elżbieta",
     "data_wplywu": "2026-02-16",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=F3179C28EB5A4BB59591074EF8638D22"
   },
   {
@@ -1244,7 +1292,7 @@
     "tytul": "Dot. przejścia dla pieszych na ul. Przyszłości",
     "radny": "Wleklak Małgorzata",
     "data_wplywu": "2026-02-11",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-03-24",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=12D3BB532100473F8A74DA5F2CA70945"
   },
   {
