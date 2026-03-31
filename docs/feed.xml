@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Radoskop Szczecin</title>
+  <subtitle>Aktualnosci z Rady Miasta Szczecina. Glosowania, sesje, rebelie.</subtitle>
+  <link href="https://szczecin.radoskop.pl/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://szczecin.radoskop.pl/" rel="alternate" type="text/html"/>
+  <id>https://szczecin.radoskop.pl/</id>
+  <updated>2026-03-31T13:26:21Z</updated>
+  <author>
+    <name>Radoskop</name>
+    <uri>https://radoskop.pl</uri>
+  </author>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku radnego Dariusza Smolińskiego o odesłanie projektu uchwały nr 8/26 do pr</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2026-01-27_012/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2026-01-27_012/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 8, przeciw 19, wstrzym. 0). Sesja XVIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku radnego Krzysztofa Romianowskiego o odesłanie do projektodawcy projektu </title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2026-01-27_024/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2026-01-27_024/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 8, przeciw 21, wstrzym. 0). Sesja XVIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XVIII Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/XVIII/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/XVIII/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">26 glosowan. 2 odrzuconych. 2 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Balicka Jolanta (OK) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/balicka-jolanta/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/balicka-jolanta/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">za zamiast przeciw w sprawie: wniosku radnego Dariusza Smolińskiego o odesłanie projektu uchwały nr 8/26 do projektodawcy</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Jasińska Ewa (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/jasinska-ewa/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/jasinska-ewa/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego "Skol</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Radziwinowicz Andrzej (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego "Skol</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Rogaczewska Wiktoria (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/rogaczewska-wiktoria/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/rogaczewska-wiktoria/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 4/26 w sprawie miejscowego planu zagospodarowania przestrzennego "Skol</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Słowik Przemysław (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/slowik-przemyslaw/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/slowik-przemyslaw/</id>
+    <published>2026-01-27T12:00:00+01:00</published>
+    <updated>2026-01-27T12:00:00+01:00</updated>
+    <summary type="html">za zamiast przeciw w sprawie: wniosku radnego Krzysztofa Romianowskiego o odesłanie do projektodawcy projektu uchwały nr 19/26 w s</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 1 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_007/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_007/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 24, wstrzym. 0). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 2 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_008/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_008/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 22, wstrzym. 1). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 3 klubu radnych PiS do projektu uchwały nr  270/25 w spraw</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_009/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_009/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 22, wstrzym. 1). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 4 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_010/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_010/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 21, wstrzym. 1). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_011/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_011/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 8, przeciw 20, wstrzym. 1). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 6 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_012/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_012/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 23, wstrzym. 0). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia poprawki nr 7 klubu radnych PiS do projektu uchwały nr 270/25 w sprawi</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-12-16_013/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-12-16_013/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 24, wstrzym. 0). Sesja XVII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XVII Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/XVII/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/XVII/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">44 glosowan. 7 odrzuconych. 7 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Gródecka Szwajkiewicz Dorota (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/grodecka-szwajkiewicz-dorota/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/grodecka-szwajkiewicz-dorota/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 221/25 w sprawie oceny sytuacji ekonomiczno-finansowej Szczecińskiego </summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Herczyński Roman (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/herczynski-roman/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/herczynski-roman/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast przeciw w sprawie: przyjęcia poprawki nr 3 klubu radnych PiS do projektu uchwały nr  270/25 w sprawie budżetu Miasta Sz</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Jeleniewska Zuzanna (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/jeleniewska-zuzanna/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/jeleniewska-zuzanna/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast przeciw w sprawie: przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawie budżetu Miasta Szc</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Smoliński Dariusz (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/smolinski-dariusz/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/smolinski-dariusz/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 289/25 w sprawie przyjęcia "Gminnego Programu Profilaktyki i Rozwiązyw</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Łażewska Renata (OK) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/lazewska-renata/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/lazewska-renata/</id>
+    <published>2025-12-16T12:00:00+01:00</published>
+    <updated>2025-12-16T12:00:00+01:00</updated>
+    <summary type="html">za zamiast przeciw w sprawie: przyjęcia poprawki nr 5 klubu radnych PiS do projektu uchwały nr 270/25 w sprawie budżetu Miasta Szc</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Sesja XVI Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/XVI/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/XVI/</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">28 glosowan. 1 odrzuconych. 1 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Chabior Marek (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/chabior-marek/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/chabior-marek/</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">przeciw zamiast za w sprawie: przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały Miejskiej Komisji W</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Gieryga Mateusz (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/gieryga-mateusz/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/gieryga-mateusz/</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszkola Publicznego Nr 60</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kopeć Maciej (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/kopec-maciej/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/kopec-maciej/</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 273/25 w sprawie rozpatrzenia odwołania od uchwały Miejskiej Komisji W</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Sesja II Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/II/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/II/</id>
+    <published>2025-07-02T12:00:00+01:00</published>
+    <updated>2025-07-02T12:00:00+01:00</updated>
+    <summary type="html">9 glosowan. 2 odrzuconych. 2 kontrowersyjnych. 25 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Kęsik Piotr (OK) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/kesik-piotr/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/kesik-piotr/</id>
+    <published>2025-07-02T12:00:00+01:00</published>
+    <updated>2025-07-02T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: wniosku radnego Łukasza Tyszlera o głosowanie bez dyskusji nad projektem uchwały nr 180/25 w sprawie</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Pawlicki Marcin (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/pawlicki-marcin/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/pawlicki-marcin/</id>
+    <published>2025-07-02T12:00:00+01:00</published>
+    <updated>2025-07-02T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 180/25 w sprawie zmiany Wieloletniej Prognozy Finansowej Miasta Szczec</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku klubu radnych Prawa i Sprawiedliwości o odesłanie projektu uchwały nr 14</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-06-17_027/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-06-17_027/</id>
+    <published>2025-06-17T12:00:00+01:00</published>
+    <updated>2025-06-17T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 21, wstrzym. 0). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku radnego Marka Duklanowskiego o odesłanie do projektodawcy projektu uchwa</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-06-17_053/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-06-17_053/</id>
+    <published>2025-06-17T12:00:00+01:00</published>
+    <updated>2025-06-17T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 4, przeciw 18, wstrzym. 1). Sesja XIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XIII Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/XIII/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/XIII/</id>
+    <published>2025-06-17T12:00:00+01:00</published>
+    <updated>2025-06-17T12:00:00+01:00</updated>
+    <summary type="html">65 glosowan. 2 odrzuconych. 2 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>15 radnych glosowalo wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/</id>
+    <published>2025-06-17T12:00:00+01:00</published>
+    <updated>2025-06-17T12:00:00+01:00</updated>
+    <summary type="html">Bartnik Paweł, Gródecka Szwajkiewicz Dorota, Kolbowicz Marek, Kopeć Maciej, Milewska Ilona, Pawlicki Marcin, Pańka Urszula, Posłuszny Jan.... Sesja z 2025-06-17.</summary>
+    <category term="rebellion_summary"/>
+  </entry>
+  <entry>
+    <title>Sesja XII Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/XII/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/XII/</id>
+    <published>2025-05-27T12:00:00+01:00</published>
+    <updated>2025-05-27T12:00:00+01:00</updated>
+    <summary type="html">47 glosowan. 27 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Romianowski Krzysztof (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/romianowski-krzysztof/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/romianowski-krzysztof/</id>
+    <published>2025-05-27T12:00:00+01:00</published>
+    <updated>2025-05-27T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Ośrodka Pomocy Rodzini</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Szałabawka Julia (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/szalabawka-julia/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/szalabawka-julia/</id>
+    <published>2025-05-27T12:00:00+01:00</published>
+    <updated>2025-05-27T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 144/25 w sprawie skargi na Dyrektora Miejskiego Ośrodka Pomocy Rodzini</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia projektu uchwały nr 84/25 w sprawie przyjęcia stanowiska dotyczącego s</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-04-23_040/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-04-23_040/</id>
+    <published>2025-04-23T12:00:00+01:00</published>
+    <updated>2025-04-23T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 10, przeciw 20, wstrzym. 0). Sesja XI.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja XI Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/XI/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/XI/</id>
+    <published>2025-04-23T12:00:00+01:00</published>
+    <updated>2025-04-23T12:00:00+01:00</updated>
+    <summary type="html">43 glosowan. 1 odrzuconych. 1 kontrowersyjnych. 31 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia projektu uchwały nr 246/24 w sprawie uchylenia uchwały zmieniającej uc</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-03-25_013/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-03-25_013/</id>
+    <published>2025-03-25T12:00:00+01:00</published>
+    <updated>2025-03-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 14, przeciw 15, wstrzym. 0). Sesja X.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: poprawki Klubu radnych Prawo i Sprawiedliwość do projektu uchwały nr 46/25 w spr</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-03-25_015/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-03-25_015/</id>
+    <published>2025-03-25T12:00:00+01:00</published>
+    <updated>2025-03-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 21, wstrzym. 0). Sesja X.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku radnego Marka Duklanowskiego o odesłanie do projektodawcy projektu uchwa</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-03-25_028/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-03-25_028/</id>
+    <published>2025-03-25T12:00:00+01:00</published>
+    <updated>2025-03-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 21, wstrzym. 0). Sesja X.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja X Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/X/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/X/</id>
+    <published>2025-03-25T12:00:00+01:00</published>
+    <updated>2025-03-25T12:00:00+01:00</updated>
+    <summary type="html">38 glosowan. 3 odrzuconych. 3 kontrowersyjnych. 30 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: przyjęcia projektu uchwały nr 36/25 w sprawie uchylenia Uchwały Nr III/51/24 Rad</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-02-25_018/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-02-25_018/</id>
+    <published>2025-02-25T12:00:00+01:00</published>
+    <updated>2025-02-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 21, wstrzym. 0). Sesja IX.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja IX Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/IX/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/IX/</id>
+    <published>2025-02-25T12:00:00+01:00</published>
+    <updated>2025-02-25T12:00:00+01:00</updated>
+    <summary type="html">23 glosowan. 1 odrzuconych. 1 kontrowersyjnych. 29 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Duklanowski Marek (PiS) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/duklanowski-marek/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/duklanowski-marek/</id>
+    <published>2025-02-25T12:00:00+01:00</published>
+    <updated>2025-02-25T12:00:00+01:00</updated>
+    <summary type="html">przeciw zamiast wstrzymal_sie w sprawie: przyjęcia projektu uchwały nr 34/25 w sprawie udzielenia z budżetu Miasta Szczecin pomocy finansowej</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku radnego Marka Duklanowskiego o odesłanie do projektodawcy projektu uchwa</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-01-28_006/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-01-28_006/</id>
+    <published>2025-01-28T12:00:00+01:00</published>
+    <updated>2025-01-28T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 22, wstrzym. 0). Sesja VIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: wniosku klubu radnych Prawo i Sprawiedliwość o odesłanie do projektodawcy nr 2/2</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-01-28_008/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-01-28_008/</id>
+    <published>2025-01-28T12:00:00+01:00</published>
+    <updated>2025-01-28T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 7, przeciw 20, wstrzym. 0). Sesja VIII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja VIII Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/VIII/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/VIII/</id>
+    <published>2025-01-28T12:00:00+01:00</published>
+    <updated>2025-01-28T12:00:00+01:00</updated>
+    <summary type="html">29 glosowan. 2 odrzuconych. 2 kontrowersyjnych. 30 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+  <entry>
+    <title>Milewska Ilona (KO) zaglosowal/a wbrew klubowi</title>
+    <link href="https://szczecin.radoskop.pl/profil/milewska-ilona/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/milewska-ilona/</id>
+    <published>2025-01-28T12:00:00+01:00</published>
+    <updated>2025-01-28T12:00:00+01:00</updated>
+    <summary type="html">wstrzymal_sie zamiast za w sprawie: przyjęcia projektu uchwały nr 2/25 w sprawie miejscowego planu zagospodarowania przestrzennego „Głęb</summary>
+    <category term="rebellion"/>
+  </entry>
+  <entry>
+    <title>Kontrowersyjne glosowanie: Poprawki Klubu radnych Prawo i Sprawiedliwość do projektu uchwały nr 239/24 w sp</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2024-12-18_024/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2024-12-18_024/</id>
+    <published>2024-12-18T12:00:00+01:00</published>
+    <updated>2024-12-18T12:00:00+01:00</updated>
+    <summary type="html">Wynik: odrzucone (za 9, przeciw 18, wstrzym. 0). Sesja VII.</summary>
+    <category term="controversial_vote"/>
+  </entry>
+  <entry>
+    <title>Sesja VII Rady Miasta Szczecin</title>
+    <link href="https://szczecin.radoskop.pl/sesja/VII/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/sesja/VII/</id>
+    <published>2024-12-18T12:00:00+01:00</published>
+    <updated>2024-12-18T12:00:00+01:00</updated>
+    <summary type="html">30 glosowan. 2 odrzuconych. 2 kontrowersyjnych. 29 obecnych radnych.</summary>
+    <category term="session"/>
+  </entry>
+</feed>
