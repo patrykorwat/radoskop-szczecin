@@ -5,7 +5,7 @@
   <link href="https://szczecin.radoskop.pl/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://szczecin.radoskop.pl/" rel="alternate" type="text/html"/>
   <id>https://szczecin.radoskop.pl/</id>
-  <updated>2026-04-05T13:46:09Z</updated>
+  <updated>2026-04-09T03:13:53Z</updated>
   <author>
     <name>Radoskop</name>
     <uri>https://radoskop.pl</uri>
@@ -20,132 +20,6 @@
     <category term="session"/>
   </entry>
   <entry>
-    <title>Interpelacja (Kępka Wojciech)</title>
-    <link href="https://szczecin.radoskop.pl/profil/kepka-wojciech/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/kepka-wojciech/#interpelacja</id>
-    <published>2026-03-23T12:00:00+01:00</published>
-    <updated>2026-03-23T12:00:00+01:00</updated>
-    <summary type="html">Kępka Wojciech</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Duklanowski Marek)</title>
-    <link href="https://szczecin.radoskop.pl/profil/duklanowski-marek/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/duklanowski-marek/#interpelacja</id>
-    <published>2026-03-23T12:00:00+01:00</published>
-    <updated>2026-03-23T12:00:00+01:00</updated>
-    <summary type="html">Duklanowski Marek</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Radziwinowicz Andrzej)</title>
-    <link href="https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/#interpelacja</id>
-    <published>2026-03-23T12:00:00+01:00</published>
-    <updated>2026-03-23T12:00:00+01:00</updated>
-    <summary type="html">Radziwinowicz Andrzej</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Romianowski Krzysztof)</title>
-    <link href="https://szczecin.radoskop.pl/profil/romianowski-krzysztof/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/romianowski-krzysztof/#interpelacja</id>
-    <published>2026-03-19T12:00:00+01:00</published>
-    <updated>2026-03-19T12:00:00+01:00</updated>
-    <summary type="html">Romianowski Krzysztof</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Szałabawka Julia)</title>
-    <link href="https://szczecin.radoskop.pl/profil/szalabawka-julia/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/szalabawka-julia/#interpelacja</id>
-    <published>2026-03-19T12:00:00+01:00</published>
-    <updated>2026-03-19T12:00:00+01:00</updated>
-    <summary type="html">Szałabawka Julia</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Smoliński Dariusz)</title>
-    <link href="https://szczecin.radoskop.pl/profil/smolinski-dariusz/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/smolinski-dariusz/#interpelacja</id>
-    <published>2026-03-19T12:00:00+01:00</published>
-    <updated>2026-03-19T12:00:00+01:00</updated>
-    <summary type="html">Smoliński Dariusz</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Pawlicki Marcin)</title>
-    <link href="https://szczecin.radoskop.pl/profil/pawlicki-marcin/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/pawlicki-marcin/#interpelacja</id>
-    <published>2026-03-18T12:00:00+01:00</published>
-    <updated>2026-03-18T12:00:00+01:00</updated>
-    <summary type="html">Pawlicki Marcin</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Kaup Stanisław)</title>
-    <link href="https://szczecin.radoskop.pl/profil/kaup-stanislaw/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/kaup-stanislaw/#interpelacja</id>
-    <published>2026-03-18T12:00:00+01:00</published>
-    <updated>2026-03-18T12:00:00+01:00</updated>
-    <summary type="html">Kaup Stanisław</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Jeleniewska Zuzanna, Wleklak Małgorzata)</title>
-    <link href="https://szczecin.radoskop.pl/interpelacje/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/interpelacje/#interpelacja</id>
-    <published>2026-03-18T12:00:00+01:00</published>
-    <updated>2026-03-18T12:00:00+01:00</updated>
-    <summary type="html">Jeleniewska Zuzanna, Wleklak Małgorzata</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Słowik Przemysław)</title>
-    <link href="https://szczecin.radoskop.pl/profil/slowik-przemyslaw/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/slowik-przemyslaw/#interpelacja</id>
-    <published>2026-03-16T12:00:00+01:00</published>
-    <updated>2026-03-16T12:00:00+01:00</updated>
-    <summary type="html">Słowik Przemysław</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Zapytanie (Balicka Jolanta)</title>
-    <link href="https://szczecin.radoskop.pl/profil/balicka-jolanta/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/balicka-jolanta/#interpelacja</id>
-    <published>2026-03-13T12:00:00+01:00</published>
-    <updated>2026-03-13T12:00:00+01:00</updated>
-    <summary type="html">Balicka Jolanta</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Jeleniewska Zuzanna)</title>
-    <link href="https://szczecin.radoskop.pl/profil/jeleniewska-zuzanna/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/jeleniewska-zuzanna/#interpelacja</id>
-    <published>2026-03-13T12:00:00+01:00</published>
-    <updated>2026-03-13T12:00:00+01:00</updated>
-    <summary type="html">Jeleniewska Zuzanna</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Wleklak Małgorzata)</title>
-    <link href="https://szczecin.radoskop.pl/profil/wleklak-malgorzata/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/wleklak-malgorzata/#interpelacja</id>
-    <published>2026-03-12T12:00:00+01:00</published>
-    <updated>2026-03-12T12:00:00+01:00</updated>
-    <summary type="html">Wleklak Małgorzata</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Zapytanie (Dorżynkiewicz Wojciech)</title>
-    <link href="https://szczecin.radoskop.pl/profil/dorzynkiewicz-wojciech/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/dorzynkiewicz-wojciech/#interpelacja</id>
-    <published>2026-03-04T12:00:00+01:00</published>
-    <updated>2026-03-04T12:00:00+01:00</updated>
-    <summary type="html">Dorżynkiewicz Wojciech</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
     <title>Sesja XIX Rady Miasta Szczecin</title>
     <link href="https://szczecin.radoskop.pl/sesja/XIX/" rel="alternate" type="text/html"/>
     <id>https://szczecin.radoskop.pl/sesja/XIX/#session</id>
@@ -153,33 +27,6 @@
     <updated>2026-02-24T12:00:00+01:00</updated>
     <summary type="html">0 glosowan.</summary>
     <category term="session"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Kęsik Piotr)</title>
-    <link href="https://szczecin.radoskop.pl/profil/kesik-piotr/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/kesik-piotr/#interpelacja</id>
-    <published>2026-02-12T12:00:00+01:00</published>
-    <updated>2026-02-12T12:00:00+01:00</updated>
-    <summary type="html">Kęsik Piotr</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Zapytanie (Kopeć Maciej)</title>
-    <link href="https://szczecin.radoskop.pl/profil/kopec-maciej/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/kopec-maciej/#interpelacja</id>
-    <published>2026-02-11T12:00:00+01:00</published>
-    <updated>2026-02-11T12:00:00+01:00</updated>
-    <summary type="html">Kopeć Maciej</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Zapytanie (Chabior Marek)</title>
-    <link href="https://szczecin.radoskop.pl/profil/chabior-marek/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/chabior-marek/#interpelacja</id>
-    <published>2026-02-03T12:00:00+01:00</published>
-    <updated>2026-02-03T12:00:00+01:00</updated>
-    <summary type="html">Chabior Marek</summary>
-    <category term="interpelacja"/>
   </entry>
   <entry>
     <title>przyjęcia protokołu z XVII zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 16 grudnia 2025 r.</title>
@@ -423,24 +270,6 @@
     <updated>2026-01-27T12:00:00+01:00</updated>
     <summary type="html">26 glosowan, 31 obecnych.</summary>
     <category term="session"/>
-  </entry>
-  <entry>
-    <title>Zapytanie (Gieryga Mateusz)</title>
-    <link href="https://szczecin.radoskop.pl/profil/gieryga-mateusz/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/gieryga-mateusz/#interpelacja</id>
-    <published>2026-01-20T12:00:00+01:00</published>
-    <updated>2026-01-20T12:00:00+01:00</updated>
-    <summary type="html">Gieryga Mateusz</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Jerzyk Henryk)</title>
-    <link href="https://szczecin.radoskop.pl/profil/jerzyk-henryk/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/jerzyk-henryk/#interpelacja</id>
-    <published>2026-01-19T12:00:00+01:00</published>
-    <updated>2026-01-19T12:00:00+01:00</updated>
-    <summary type="html">Jerzyk Henryk</summary>
-    <category term="interpelacja"/>
   </entry>
   <entry>
     <title>przyjęcia protokołu z XVI zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 25 listopada 2025 r.</title>
@@ -848,15 +677,6 @@
     <category term="session"/>
   </entry>
   <entry>
-    <title>Zapytanie (Rogaczewska Wiktoria)</title>
-    <link href="https://szczecin.radoskop.pl/profil/rogaczewska-wiktoria/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/rogaczewska-wiktoria/#interpelacja</id>
-    <published>2025-12-08T12:00:00+01:00</published>
-    <updated>2025-12-08T12:00:00+01:00</updated>
-    <summary type="html">Rogaczewska Wiktoria</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
     <title>przyjęcia protokołu z XV zwyczajnej sesji Rady Miasta Szczecin odbytej w dniu 9 października 2025 r.</title>
     <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_000/" rel="alternate" type="text/html"/>
     <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_000/#vote</id>
@@ -908,6 +728,186 @@
     <published>2025-11-25T12:00:00+01:00</published>
     <updated>2025-11-25T12:00:00+01:00</updated>
     <summary type="html">Wynik: przyjete (za 29, przeciw 0, wstrzym. 1). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>wniosku radnego Piotra Kęsika o zdjęcie z porządku obrad projektu uchwały nr 267/25 zmieniającej uch</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_006/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_006/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 28, przeciw 0, wstrzym. 3). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 249/25 w sprawie udzielenia bonifikaty od ceny netto nieruchomości gru</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_007/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_007/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 31, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 250/25 w sprawie udzielenia bonifikaty od ceny netto nieruchomości gru</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_008/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_008/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 31, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 251/25 zmieniającej Uchwałę w sprawie wyrażenia zgody na sprzedaż w dr</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_009/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_009/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 30, przeciw 0, wstrzym. 1). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 252/25 w sprawie wyrażenia zgody na sprzedaż w drodze bezprzetargowej </title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_010/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_010/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 31, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 254/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruc</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_011/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_011/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 31, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 255/25 w sprawie wyrażenia zgody na sprzedaż w drodze przetargu nieruc</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_012/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_012/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 31, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 256/25 w sprawie utworzenia branżowego centrum umiejętności i włączeni</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_013/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_013/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 30, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 257/25 w sprawie utworzenia branżowego centrum umiejętności i włączeni</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_014/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_014/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 31, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 258/25 w sprawie zamiaru przekształcenia Przedszkola Publicznego Nr 60</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_015/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_015/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 23, przeciw 6, wstrzym. 2). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 259/25 w sprawie zamiaru przekształcenia Szkoły Podstawowej nr 7 im. H</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_016/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_016/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 27, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 260/25 w sprawie planu nadzoru nad żłobkami, klubami dziecięcymi oraz </title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_017/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_017/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 29, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 261/25 zmieniającej uchwałę w sprawie nadania statutu Domu Pomocy Społ</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_018/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_018/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 27, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 262/25 w sprawie określenia szczegółowych warunków przyznawania i odpł</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_019/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_019/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 30, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 263/25 zmieniającej uchwałę w sprawie opłat za usługi przewozowe lokal</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_020/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_020/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 29, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 264/25 w sprawie ustalenia zasad i wysokości diet dla przewodniczących</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_021/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_021/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 30, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>wniosku radnego Łukasza Tyszlera o przejście do głosowania nad projektem uchwały nr 266/25 w sprawie</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_022/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_022/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 22, przeciw 6, wstrzym. 1). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 266/25 w sprawie przyjęcia Strategii Rozwoju Szczecina na lata 2025-20</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_023/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_023/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 23, przeciw 0, wstrzym. 7). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 268/25 w sprawie skargi na Dyrektor Centrum Opieki nad Dzieckiem w Szc</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_024/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_024/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 29, przeciw 0, wstrzym. 1). Sesja XVI.</summary>
+    <category term="vote"/>
+  </entry>
+  <entry>
+    <title>przyjęcia projektu uchwały nr 269/25 zmieniającej uchwałę w sprawie powołania komisji stałych Rady M</title>
+    <link href="https://szczecin.radoskop.pl/glosowanie/2025-11-25_025/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/glosowanie/2025-11-25_025/#vote</id>
+    <published>2025-11-25T12:00:00+01:00</published>
+    <updated>2025-11-25T12:00:00+01:00</updated>
+    <summary type="html">Wynik: przyjete (za 30, przeciw 0, wstrzym. 0). Sesja XVI.</summary>
     <category term="vote"/>
   </entry>
 </feed>
