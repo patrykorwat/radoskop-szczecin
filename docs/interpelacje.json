@@ -1,5 +1,65 @@
 [
   {
+    "cri": "szczecin-2024-2029-1953",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1953",
+    "typ": "zapytanie",
+    "tytul": "Dot. programów realizowanych przez Dom Kultury 13 Muz",
+    "radny": "Dorżynkiewicz Wojciech",
+    "data_wplywu": "2026-04-14",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=995E67601366408788CD35A9B5E9AD9B"
+  },
+  {
+    "cri": "szczecin-2024-2029-1952",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1952",
+    "typ": "interpelacja",
+    "tytul": "Dot. stanu poboczy w rejonie ulicy Tama Pomorzańska",
+    "radny": "Szałabawka Julia",
+    "data_wplywu": "2026-04-14",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=610095C8C482496C8FB2EF34B85B9315"
+  },
+  {
+    "cri": "szczecin-2024-2029-1951",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1951",
+    "typ": "zapytanie",
+    "tytul": "Dot. frekwencji na zajęciach edukacji zdrowotnej",
+    "radny": "Kopeć Maciej",
+    "data_wplywu": "2026-04-14",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=BA632BE703D24161A2F85A69574997CB"
+  },
+  {
+    "cri": "szczecin-2024-2029-1950",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1950",
+    "typ": "interpelacja",
+    "tytul": "Dot. organizacji zajęć edukacji zdrowotnej jako przedmiotu obowiązkowego",
+    "radny": "Kopeć Maciej",
+    "data_wplywu": "2026-04-14",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=07001333E3D14078B3FCC2D51ACA1AC7"
+  },
+  {
+    "cri": "szczecin-2024-2029-1949",
+    "miasto": "szczecin",
+    "kadencja": "2024-2029",
+    "numer": "1949",
+    "typ": "interpelacja",
+    "tytul": "Dot. niechlubnego rankingu, w którym Szczecin zajął pierwsze miejsce jako miasto z najwyższym wskaźnikiem przestępczości",
+    "radny": "Pawlicki Marcin",
+    "data_wplywu": "2026-04-14",
+    "data_odpowiedzi": null,
+    "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=4BE3134A441B4406960FD62B4758F6E8"
+  },
+  {
     "cri": "szczecin-2024-2029-1948",
     "miasto": "szczecin",
     "kadencja": "2024-2029",
@@ -500,7 +560,7 @@
     "tytul": "Dot. lokalizacji postoju autobusów przy przystanku \\\"Gumieńce\\\"",
     "radny": "Kaup Stanisław",
     "data_wplywu": "2026-03-31",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-04-14",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=D64B3ED9ACE648C49B46F77474F8D21A"
   },
   {
@@ -704,7 +764,7 @@
     "tytul": "Dot. Ośrodka Jeździeckiego w Kijewie",
     "radny": "Romianowski Krzysztof",
     "data_wplywu": "2026-03-19",
-    "data_odpowiedzi": null,
+    "data_odpowiedzi": "2026-04-13",
     "url": "https://bip.um.szczecin.pl/chapter_131447.asp?soid=CB4ED1F565204B1CB7D9989BF2E02112"
   },
   {
