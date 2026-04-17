@@ -5,7 +5,7 @@
   <link href="https://szczecin.radoskop.pl/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://szczecin.radoskop.pl/" rel="alternate" type="text/html"/>
   <id>https://szczecin.radoskop.pl/</id>
-  <updated>2026-04-14T13:40:40Z</updated>
+  <updated>2026-04-17T13:21:53Z</updated>
   <author>
     <name>Radoskop</name>
     <uri>https://radoskop.pl</uri>
@@ -18,6 +18,51 @@
     <updated>2026-04-21T12:00:00+01:00</updated>
     <summary type="html">0 glosowan.</summary>
     <category term="session"/>
+  </entry>
+  <entry>
+    <title>Interpelacja (Kaup Stanisław)</title>
+    <link href="https://szczecin.radoskop.pl/profil/kaup-stanislaw/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/kaup-stanislaw/#interpelacja</id>
+    <published>2026-04-17T12:00:00+01:00</published>
+    <updated>2026-04-17T12:00:00+01:00</updated>
+    <summary type="html">Kaup Stanisław</summary>
+    <category term="interpelacja"/>
+  </entry>
+  <entry>
+    <title>Interpelacja (Radziwinowicz Andrzej)</title>
+    <link href="https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/#interpelacja</id>
+    <published>2026-04-15T12:00:00+01:00</published>
+    <updated>2026-04-15T12:00:00+01:00</updated>
+    <summary type="html">Radziwinowicz Andrzej</summary>
+    <category term="interpelacja"/>
+  </entry>
+  <entry>
+    <title>Interpelacja (Duklanowski Marek)</title>
+    <link href="https://szczecin.radoskop.pl/profil/duklanowski-marek/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/duklanowski-marek/#interpelacja</id>
+    <published>2026-04-15T12:00:00+01:00</published>
+    <updated>2026-04-15T12:00:00+01:00</updated>
+    <summary type="html">Duklanowski Marek</summary>
+    <category term="interpelacja"/>
+  </entry>
+  <entry>
+    <title>Zapytanie (Herczyński  Roman)</title>
+    <link href="https://szczecin.radoskop.pl/interpelacje/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/interpelacje/#interpelacja</id>
+    <published>2026-04-15T12:00:00+01:00</published>
+    <updated>2026-04-15T12:00:00+01:00</updated>
+    <summary type="html">Herczyński  Roman</summary>
+    <category term="interpelacja"/>
+  </entry>
+  <entry>
+    <title>Interpelacja (Smoliński Dariusz)</title>
+    <link href="https://szczecin.radoskop.pl/profil/smolinski-dariusz/" rel="alternate" type="text/html"/>
+    <id>https://szczecin.radoskop.pl/profil/smolinski-dariusz/#interpelacja</id>
+    <published>2026-04-15T12:00:00+01:00</published>
+    <updated>2026-04-15T12:00:00+01:00</updated>
+    <summary type="html">Smoliński Dariusz</summary>
+    <category term="interpelacja"/>
   </entry>
   <entry>
     <title>Zapytanie (Dorżynkiewicz Wojciech)</title>
@@ -74,39 +119,12 @@
     <category term="interpelacja"/>
   </entry>
   <entry>
-    <title>Interpelacja (Kaup Stanisław)</title>
-    <link href="https://szczecin.radoskop.pl/profil/kaup-stanislaw/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/kaup-stanislaw/#interpelacja</id>
-    <published>2026-04-13T12:00:00+01:00</published>
-    <updated>2026-04-13T12:00:00+01:00</updated>
-    <summary type="html">Kaup Stanisław</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Duklanowski Marek)</title>
-    <link href="https://szczecin.radoskop.pl/profil/duklanowski-marek/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/duklanowski-marek/#interpelacja</id>
-    <published>2026-04-13T12:00:00+01:00</published>
-    <updated>2026-04-13T12:00:00+01:00</updated>
-    <summary type="html">Duklanowski Marek</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
     <title>Interpelacja (Słowik Przemysław)</title>
     <link href="https://szczecin.radoskop.pl/profil/slowik-przemyslaw/" rel="alternate" type="text/html"/>
     <id>https://szczecin.radoskop.pl/profil/slowik-przemyslaw/#interpelacja</id>
     <published>2026-04-10T12:00:00+01:00</published>
     <updated>2026-04-10T12:00:00+01:00</updated>
     <summary type="html">Słowik Przemysław</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Smoliński Dariusz)</title>
-    <link href="https://szczecin.radoskop.pl/profil/smolinski-dariusz/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/smolinski-dariusz/#interpelacja</id>
-    <published>2026-04-10T12:00:00+01:00</published>
-    <updated>2026-04-10T12:00:00+01:00</updated>
-    <summary type="html">Smoliński Dariusz</summary>
     <category term="interpelacja"/>
   </entry>
   <entry>
@@ -146,15 +164,6 @@
     <category term="interpelacja"/>
   </entry>
   <entry>
-    <title>Zapytanie (Herczyński  Roman)</title>
-    <link href="https://szczecin.radoskop.pl/interpelacje/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/interpelacje/#interpelacja</id>
-    <published>2026-03-25T12:00:00+01:00</published>
-    <updated>2026-03-25T12:00:00+01:00</updated>
-    <summary type="html">Herczyński  Roman</summary>
-    <category term="interpelacja"/>
-  </entry>
-  <entry>
     <title>Sesja XX Rady Miasta Szczecin</title>
     <link href="https://szczecin.radoskop.pl/sesja/XX/" rel="alternate" type="text/html"/>
     <id>https://szczecin.radoskop.pl/sesja/XX/#session</id>
@@ -162,15 +171,6 @@
     <updated>2026-03-24T12:00:00+01:00</updated>
     <summary type="html">0 glosowan.</summary>
     <category term="session"/>
-  </entry>
-  <entry>
-    <title>Interpelacja (Radziwinowicz Andrzej)</title>
-    <link href="https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/" rel="alternate" type="text/html"/>
-    <id>https://szczecin.radoskop.pl/profil/radziwinowicz-andrzej/#interpelacja</id>
-    <published>2026-03-23T12:00:00+01:00</published>
-    <updated>2026-03-23T12:00:00+01:00</updated>
-    <summary type="html">Radziwinowicz Andrzej</summary>
-    <category term="interpelacja"/>
   </entry>
   <entry>
     <title>Zapytanie (Balicka Jolanta)</title>
